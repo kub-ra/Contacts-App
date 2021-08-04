@@ -1,0 +1,38 @@
+#container{
+    width: 400px;
+    padding: 50px;
+    background-color: rgb(175, 240, 218);
+    margin: 50px;
+    border-radius: 10px;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    margin: 5px;
+}
+button{
+    padding: 10px 50px;
+    margin-left: 150px;
+    border-radius: 10px;
+    margin-top:10px;
+    background-color: coral;
+    border:1px solid coral;
+    color:cornsilk;
+}
+h1{
+    color:rgb(105, 128, 151);
+}
+ul li{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    background-color: rgb(238, 201, 187);
+    margin: 3px 0px;
+    padding: 5px;
+    display: flex;
+    justify-content:space-between;
+
+}
+ul{
+    margin: 5px;
+}
